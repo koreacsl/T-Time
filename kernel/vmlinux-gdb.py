@@ -1,0 +1,1 @@
+/home/csl/HOST/T-Time/kernel/t-time_ver01/scripts/gdb/vmlinux-gdb.py
