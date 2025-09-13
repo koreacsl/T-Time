@@ -126,6 +126,9 @@ We recommend following the evaluation steps in the following order.
 2. evaluation_mbedtls (Folder : attack\T-Time_poc_host\T-Time_poc_host\poc\evaluation_cache)
 3. evaluation_webp (Folder : attack\T-Time_poc_host\T-Time_poc_host\poc\evaluation_webp)
 
+# Disclaimer
+
+This project is for educational and research purposes only. Use of this software for attacking targets without prior mutual consent is illegal. The developer is not responsible for any damage caused by the use of this exploit.
 
 # Reference
 
