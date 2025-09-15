@@ -122,9 +122,9 @@ Once you have completed the steps above, the environment setup is finished.
 Next, refer to the README.md files located in each evaluation folder under the /poc directory.
 
 We recommend following the evaluation steps in the following order.
-1. evaluation_cache (Folder : attack\T-Time_poc_host\T-Time_poc_host\poc\evaluation_cache)
-2. evaluation_mbedtls (Folder : attack\T-Time_poc_host\T-Time_poc_host\poc\evaluation_cache)
-3. evaluation_webp (Folder : attack\T-Time_poc_host\T-Time_poc_host\poc\evaluation_webp)
+1. evaluation_cache (Folder : attack\T-Time_poc_host\poc\evaluation_cache)
+2. evaluation_mbedtls (Folder : attack\T-Time_poc_host\poc\evaluation_cache)
+3. evaluation_webp (Folder : attack\T-Time_poc_host\poc\evaluation_webp)
 
 # Disclaimer
 
