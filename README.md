@@ -12,7 +12,7 @@ Our findings demonstrate that existing page-level defenses are inadequate agains
 
 # More Details
 
-**ESORICS'25** : You can find a copy of the original paper [here](./ESORICS25_T-Time.pdf)
+**ESORICS'25** : You can find a preprint version of the paper [here](./ESORICS25_T-Time.pdf)
 
 (The official proceedings link will be added once available.)
 
