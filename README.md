@@ -10,6 +10,8 @@ We validate T-Time in two practical scenarios: extracting a 4096-bit RSA private
 Our findings demonstrate that existing page-level defenses are inadequate against fine-grained timing attacks.
 
 
+# More Details
+**ESORICS'25** : A copy of the original paper is available [here](./ESORICS25_T-Time.pdf)
 
 # Step 1. Experimental steup
 
