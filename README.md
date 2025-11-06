@@ -12,9 +12,7 @@ Our findings demonstrate that existing page-level defenses are inadequate agains
 
 # More Details
 
-**ESORICS'25** : You can find a preprint version of the paper [here](./ESORICS25_T-Time.pdf)
-
-(The official proceedings link will be added once available.)
+**ESORICS'25** : https://link.springer.com/chapter/10.1007/978-3-032-07894-0_17
 
 # Step 1. Experimental steup
 
